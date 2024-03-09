@@ -286,7 +286,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   font-size: 14px;
   line-height: 30px;
   font-family: "Jost", sans-serif;
-  font-weight: 500;
+  font-weight: ;
   color: #086ad8;
   letter-spacing: 1px;
   text-transform: uppercase;
