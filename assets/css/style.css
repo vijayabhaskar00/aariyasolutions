@@ -6339,13 +6339,13 @@ textarea:-ms-input-placeholder {
 }
 
 .contact-info-section .contact-info-wrap .single-contact-info .info-content p {
-  font-size: 18px;
+  font-size: 17px;
   line-height: 30px;
 }
 
 @media only screen and (max-width: 1199px) {
   .contact-info-section .contact-info-wrap .single-contact-info .info-content p {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 
